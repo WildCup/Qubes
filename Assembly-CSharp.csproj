@@ -61,28 +61,27 @@
     <Compile Include="Assets\Scripts\EndTrigger.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\ObstacleDissapear.cs" />
-    <Compile Include="Assets\upgrade.cs" />
+    <Compile Include="Assets\Scripts\ObstacleDissapear.cs" />
+    <Compile Include="Assets\Scripts\upgrade.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
-    <Compile Include="Assets\skill.cs" />
+    <Compile Include="Assets\Scripts\skill.cs" />
     <Compile Include="Assets\Scripts\Sound.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
     <Compile Include="Assets\Scripts\Fader.cs" />
     <Compile Include="Assets\Scripts\Credits.cs" />
-    <Compile Include="Assets\Abilities.cs" />
+    <Compile Include="Assets\Scripts\Abilities.cs" />
     <Compile Include="Assets\Scripts\START.cs" />
-    <Compile Include="Assets\GoBack.cs" />
+    <Compile Include="Assets\Scripts\GoBack.cs" />
     <Compile Include="Assets\Scripts\RoteteInMenu.cs" />
-    <Compile Include="Assets\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\Scripts\SetRandomColor.cs" />
-    <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\LevelSelecor.cs" />
     <Compile Include="Assets\Scripts\SetDifficulty.cs" />
     <Compile Include="Assets\Scripts\CreateButtons.cs" />
     <Compile Include="Assets\Scripts\AddRandomForse.cs" />
-    <Compile Include="Assets\Earning.cs" />
+    <Compile Include="Assets\Scripts\Earning.cs" />
     <Compile Include="Assets\Scripts\PlayerCollision.cs" />
   </ItemGroup>
   <ItemGroup>
